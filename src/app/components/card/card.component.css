@@ -11,4 +11,9 @@ section {
   height: 45em;
   border-radius: 40px;
   background-color: #3C3C3C;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
